@@ -31,4 +31,5 @@ int main() {
         cout << "O terceiro produto é o mais barato." << endl;
     }
 
+    return 0;
 }
