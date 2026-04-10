@@ -20,5 +20,6 @@ int main() {
     tempoDownload = (tamanhoArquivo * 8  / velocidadeLinkInternet) / 60;
 
     cout << "Tempo de download do arquivo usando este link: " <<  tempoDownload << " minutos." << endl; 
+    
     return 0;
 }
